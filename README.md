@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# reactCalculator
+A calculator built with Reactjs
+>>>>>>> 87740ce026ed010b8d9cb9df7f91beb069c0a316
